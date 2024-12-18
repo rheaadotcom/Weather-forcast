@@ -1,35 +1,27 @@
-Weather Forecast Website
+# **Weather Forecast Website**
 
 Welcome to the Weather Forecast Website GitHub repository! This project provides real-time weather updates, including temperature, humidity, wind speed, and weather conditions for locations worldwide.
 
-Features
+## Features
 
-Real-Time Weather Data: Current weather updates fetched from a reliable weather API.
+### Real-Time Weather Data:  
+Current weather updates fetched from a reliable weather API.
 
-Location Search: Search for weather details by city name.
+### Location Search:
+Search for weather details by city name.
 
-Responsive Design: Fully responsive and optimized for various devices.
+### Responsive Design:
+Fully responsive and optimized for various devices.
 
-Dynamic Backgrounds: Background changes based on weather conditions.
+### Dynamic Backgrounds:
+Background changes based on weather conditions.
 
-Tech Stack
+## Tech Stack
 
-Frontend: HTML, CSS, JavaScript
+### Frontend: 
+HTML, CSS, JavaScript
 
-API: OpenWeatherMap API (or any preferred weather API)
+### API:
+OpenWeatherMap API (or any preferred weather API)
 
-Version Control: Git and GitHub
-
-Installation
-
-Clone the Repository:
-
-git clone https://github.com/your-username/weather-forecast-website.git
-
-Navigate to the Project Directory:
-
-cd weather-forecast-website
-
-Open the Website:
-
-Open index.html in your browser.
+### Version Control: Git and GitHub
